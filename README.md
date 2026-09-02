@@ -9,7 +9,7 @@ Created by the team at [SandGrains](https://sandgrains.net)
 #### Follow us on Social Media
 
 - Facebook: [@we.are.sandgrains](https://www.facebook.com/we.are.sandgrains)
-- Instagram: [@we.are.sandgrains]([https://www.instagram.com/svssoftwaredev](https://www.instagram.com/we.are.sandgrains))
+- Instagram: [@we.are.sandgrains](https://www.instagram.com/we.are.sandgrains)
 - LinkedIn: [@wearesandgrains](https://www.linkedin.com/company/wearesandgrains)
 - X: [@wearesandgrains](https://x.com/wearesandgrains)
 
